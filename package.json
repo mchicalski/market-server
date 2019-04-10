@@ -1,0 +1,19 @@
+{
+  "name": "market-server",
+  "version": "0.0.1",
+  "description": "Trading server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mchicalski/market-server.git"
+  },
+  "author": "mchicalski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mchicalski/market-server/issues"
+  },
+  "homepage": "https://github.com/mchicalski/market-server#readme"
+}
